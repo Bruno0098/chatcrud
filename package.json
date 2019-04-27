@@ -1,0 +1,20 @@
+{
+  "name": "chatcrud",
+  "version": "1.0.0",
+  "description": "Simples chatcrut\u001b[D\u001b[D\u001b[D\u001b[D crud\u001b[2~",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bruno0098/chatcrud.git"
+  },
+  "author": "Bruno M.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bruno0098/chatcrud/issues"
+  },
+  "homepage": "https://github.com/Bruno0098/chatcrud#readme",
+  "keywords": []
+}
